@@ -15,3 +15,20 @@ Y:\C Sharp\ISAD\ISAD Assignment\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
 Y:\C Sharp\ISAD\ISAD Assignment\bin\Debug\Bunifu.Licensing.dll
 Y:\C Sharp\ISAD\ISAD Assignment\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
 Y:\C Sharp\ISAD\ISAD Assignment\obj\Debug\ISAD Assignment.exe.licenses
+Y:\ISAD-Assignment\ISAD Assignment\bin\Debug\ISAD Assignment.exe.config
+Y:\ISAD-Assignment\ISAD Assignment\bin\Debug\ISAD Assignment.exe
+Y:\ISAD-Assignment\ISAD Assignment\bin\Debug\ISAD Assignment.pdb
+Y:\ISAD-Assignment\ISAD Assignment\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+Y:\ISAD-Assignment\ISAD Assignment\bin\Debug\Guna.UI.dll
+Y:\ISAD-Assignment\ISAD Assignment\bin\Debug\Siticone.UI.dll
+Y:\ISAD-Assignment\ISAD Assignment\bin\Debug\Bunifu.Licensing.dll
+Y:\ISAD-Assignment\ISAD Assignment\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+Y:\ISAD-Assignment\ISAD Assignment\obj\Debug\ISAD Assignment.csproj.AssemblyReference.cache
+Y:\ISAD-Assignment\ISAD Assignment\obj\Debug\ISAD_Assignment.frmLogin.resources
+Y:\ISAD-Assignment\ISAD Assignment\obj\Debug\ISAD_Assignment.Properties.Resources.resources
+Y:\ISAD-Assignment\ISAD Assignment\obj\Debug\ISAD Assignment.csproj.GenerateResource.cache
+Y:\ISAD-Assignment\ISAD Assignment\obj\Debug\ISAD Assignment.exe.licenses
+Y:\ISAD-Assignment\ISAD Assignment\obj\Debug\ISAD Assignment.csproj.CoreCompileInputs.cache
+Y:\ISAD-Assignment\ISAD Assignment\obj\Debug\ISAD Ass.8E1A5AC4.Up2Date
+Y:\ISAD-Assignment\ISAD Assignment\obj\Debug\ISAD Assignment.exe
+Y:\ISAD-Assignment\ISAD Assignment\obj\Debug\ISAD Assignment.pdb

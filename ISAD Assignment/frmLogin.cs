@@ -19,7 +19,7 @@ namespace ISAD_Assignment
 
         private void frmLogin_Load(object sender, EventArgs e)
         {
-
+            MessageBox.Show("morkraksa");
         }
     }
 }
